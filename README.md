@@ -9,10 +9,10 @@ I focus on building robust software for intelligent physical systems, from low-l
 
 ---
 
-### :computer: Technologies
+### :gear: Toolkit & Frameworks
 
 <div align="center">
-  <h4>:writing_hand:: Languages</h4>
+  <h4>:writing_hand: Languages</h4>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="65"/>
@@ -70,12 +70,12 @@ Designed a study on the Haptic Phantom Touch device, aiming to further analyse h
 
 ### :book: What I've been working on
 
-* **:car: Mobile Robotics:** Development of autonomous mobility on Turtlebot4. Focus on path finding algorithms.
+* **:car: [Mobile Robotics](https://github.com/Robmob-Brietzke-Perrin/RobMob):** Development of autonomous mobility on Turtlebot4. Focus on path finding algorithms.
   <br/>
   ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square)
   ![Tech](https://img.shields.io/badge/Stack-ROS2_%7C_ros2__control_%7C_SLAM_%26_RRT--Connect-lightgrey?style=flat-square)
 
-* **:building_construction: 3R Robot on Mobile Base:** Hobby project, aiming to prototype a robot from scratch.
+* **:building_construction: [3R Robot on Mobile Base](https://github.com/JoachimPerrin/Mivak):** Hobby project, aiming to prototype a robot from scratch.
   <br/>
   ![Status](https://img.shields.io/badge/Status-Design%20Phase-blue?style=flat-square)
   ![Tech](https://img.shields.io/badge/Stack-ROS2_%7C_URDF_%26_Xacro_%7C_CAD-lightgrey?style=flat-square)
