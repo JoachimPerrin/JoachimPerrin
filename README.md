@@ -2,13 +2,11 @@
 
 ### :mortar_board: Robotics Engineer Student
 
-Based in Paris, France. Currently completing my Master's at **Polytech Sorbonne**.
-I focus on building robust software for intelligent physical systems, from low-level drivers to high-level decision algorithms.
+Based in Paris, France. Currently completing my engineering degree at **Polytech Sorbonne**.
 
-> :dart: **Goal:** Seeking a 6-month Internship in Robotics / Embedded Systems (Feb 2026).
+> :dart: **Goal:** Seeking a 6-month Internship in Robotics (Feb 2026).
 
 ---
-
 ### :gear: Toolkit & Frameworks
 
 <div align="center">
@@ -50,11 +48,10 @@ I focus on building robust software for intelligent physical systems, from low-l
 </div>  
 
 ---
-
 ### :briefcase: Experiences
 
 <details>
-  <summary>Internship - Neuro-Robotic Touch Lab (Pisa, Italy)</summary>
+  <summary><b>Internship - Neuro-Robotic Touch Lab</b> (Pisa, Italy)</summary>
 Designed a study on the Haptic Phantom Touch device, aiming to further analyse human like exploration strategy in a tissue palpation context (for nodule identification). This in order to analyse the potential implementation of such methods in a human-in-loop or autonomous robotic platform.
   
   - Programmed an automatic generation of a virtual object for biologic tissue representation.
@@ -63,31 +60,40 @@ Designed a study on the Haptic Phantom Touch device, aiming to further analyse h
 </details>
 
 <details>
-  <summary>Internship - Antilogy (Paris, France)</summary>
+  <summary><b>Internship - Antilogy</b> (Paris, France)</summary>
   - Drafted a 3D graph visualization application
   - First hands-on experiment developping on a VR headset (Meta quest 3) with Unity.
 </details>
 
+---
 ### :book: What I've been working on
 
-* **:car: [Mobile Robotics](https://github.com/Robmob-Brietzke-Perrin/RobMob):** Development of autonomous mobility on Turtlebot4. Focus on path finding algorithms.
+* **:car: [Mobile Robotics](https://github.com/Robmob-Brietzke-Perrin/RobMob):**
+  Development of autonomous mobility on Turtlebot4. Focus on path finding algorithms.
   <br/>
-  ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square)
-  ![Tech](https://img.shields.io/badge/Stack-ROS2_%7C_ros2__control_%7C_SLAM_%26_RRT--Connect-lightgrey?style=flat-square)
+  ![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+  ![Tech](https://img.shields.io/badge/Stack-ROS2_%7C_SLAM_%7C_Nav2-lightgrey)
 
-* **:building_construction: [3R Robot on Mobile Base](https://github.com/JoachimPerrin/Mivak):** Hobby project, aiming to prototype a robot from scratch.
+* **:building_construction: [3R Robot on Mobile Base](https://github.com/JoachimPerrin/Mivak):**
+  Hobby project, aiming to prototype a robot from scratch.
   <br/>
-  ![Status](https://img.shields.io/badge/Status-Design%20Phase-blue?style=flat-square)
-  ![Tech](https://img.shields.io/badge/Stack-ROS2_%7C_URDF_%26_Xacro_%7C_CAD-lightgrey?style=flat-square)
+  ![Status](https://img.shields.io/badge/Status-Design%20Phase-blue)
+  ![Tech](https://img.shields.io/badge/Stack-ROS2_%7C_URDF_%26_Xacro_%7C_CAD-lightgrey)
 
-* **:compass: [Mini Game](https://github.com/JoachimPerrin/academic-minigame):** A small game using SDL2, demonstrating OOP paradigm.
+* **:whale2: [Docker Environments](https://github.com/JoachimPerrin/docker-envs):**
+  A handful of various docker environments I use across projects.
   <br/>
-  ![Status](https://img.shields.io/badge/Status-Paused-lightgrey?style=flat-square)
-  ![Tech](https://img.shields.io/badge/Stack-C++_%7C_OOP-lightgrey?style=flat-square)
+  ![Status](https://img.shields.io/badge/Status-Maintained-success)
+  ![Tech](https://img.shields.io/badge/Stack-Docker_%7C_Bash-lightgrey)
 
-* **:mortar_board: [Academic Courseworks](https://github.com/JoachimPerrin/academic-courseworks):** A collection of various school projects and labs.
+* **:compass: [Mini Game](https://github.com/JoachimPerrin/academic-minigame):**
+  A small game using SDL2, demonstrating OOP paradigms in C++.
+  <br/>
+  ![Status](https://img.shields.io/badge/Status-Paused-yellow)
+  ![Tech](https://img.shields.io/badge/Stack-C++_%7C_OOP-lightgrey)
+
+* **:mortar_board: [Academic Courseworks](https://github.com/JoachimPerrin/academic-courseworks):** A collection of various school projects. 
 ---
-
 ### 📈 GitHub Stats
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoachimPerrin&layout=compact&hide=jupyter%20notebook,html"
@@ -98,4 +104,11 @@ Designed a study on the Haptic Phantom Touch device, aiming to further analyse h
 <!-- ![Joachim's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoachimPerrin&show_icons=true&theme=radical) -->
 
 ---
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/joachim-perrin-825a08297)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:joachimperrinl@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/joachim-perrin-825a08297" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:joachimperrin1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
