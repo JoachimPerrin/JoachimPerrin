@@ -41,10 +41,12 @@ Based in Paris, France. Currently completing my engineering degree at **Polytech
   <h4>:hammer_and_wrench: Miscellaneous</h4>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="65"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscodium/vscodium-original.svg" width="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nano/nano-original.svg" width="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="65"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" width="65"/>
 </div>  
 
 ---
