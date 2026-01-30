@@ -76,11 +76,11 @@ Designed a study on the Haptic Phantom Touch device, aiming to further analyse h
   ![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
   ![Tech](https://img.shields.io/badge/Stack-ROS2_%7C_SLAM_%7C_Nav2-lightgrey)
 
-* **:building_construction: [3R Robot on Mobile Base](https://github.com/JoachimPerrin/Mivak):**
-  Hobby project, aiming to prototype a robot from scratch.
+* **:compass: [Mini Game](https://github.com/JoachimPerrin/implem):**
+  Control of a 1-DoF platform, with scalable methods (ros2-control, lifecycle nodes and FSM...)
   <br/>
-  ![Status](https://img.shields.io/badge/Status-Design%20Phase-blue)
-  ![Tech](https://img.shields.io/badge/Stack-ROS2_%7C_URDF_%26_Xacro_%7C_CAD-lightgrey)
+  ![Status](https://img.shields.io/badge/Status-Maintained-success)
+  ![Tech](https://img.shields.io/badge/Stack-C++_%7C_ros2_control-lightgrey)
 
 * **:whale2: [Docker Environments](https://github.com/JoachimPerrin/docker-envs):**
   A handful of various docker environments I use across projects.
@@ -88,11 +88,11 @@ Designed a study on the Haptic Phantom Touch device, aiming to further analyse h
   ![Status](https://img.shields.io/badge/Status-Maintained-success)
   ![Tech](https://img.shields.io/badge/Stack-Docker_%7C_Bash-lightgrey)
 
-* **:compass: [Mini Game](https://github.com/JoachimPerrin/academic-minigame):**
-  A small game using SDL2, demonstrating OOP paradigms in C++.
+* **:building_construction: [3R Robot on Mobile Base](https://github.com/JoachimPerrin/Mivak):**
+  Hobby project, aiming to prototype a robot from scratch.
   <br/>
-  ![Status](https://img.shields.io/badge/Status-Paused-yellow)
-  ![Tech](https://img.shields.io/badge/Stack-C++_%7C_OOP-lightgrey)
+  ![Status](https://img.shields.io/badge/Status-Design%20Phase-blue)
+  ![Tech](https://img.shields.io/badge/Stack-ROS2_%7C_URDF_%26_Xacro_%7C_CAD-lightgrey)
 
 * **:mortar_board: [Academic Courseworks](https://github.com/JoachimPerrin/academic-courseworks):** A collection of various school projects. 
 ---
