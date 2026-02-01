@@ -70,17 +70,17 @@ Designed a study on the Haptic Phantom Touch device, aiming to further analyse h
 ---
 ### :book: What I've been working on
 
-* **:car: [Mobile Robotics](https://github.com/Robmob-Brietzke-Perrin/RobMob):**
-  Development of autonomous mobility on Turtlebot4. Focus on path finding algorithms.
-  <br/>
-  ![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
-  ![Tech](https://img.shields.io/badge/Stack-ROS2_%7C_SLAM_%7C_Nav2-lightgrey)
-
 * **:compass: [Mini Game](https://github.com/JoachimPerrin/implem):**
   Control of a 1-DoF platform, with scalable methods (ros2-control, lifecycle nodes and FSM...)
   <br/>
   ![Status](https://img.shields.io/badge/Status-Maintained-success)
   ![Tech](https://img.shields.io/badge/Stack-C++_%7C_ros2_control-lightgrey)
+
+* **:car: [Mobile Robotics](https://github.com/Robmob-Brietzke-Perrin/RobMob):**
+  Development of autonomous mobility on Turtlebot4. Focus on path finding algorithms.
+  <br/>
+  ![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+  ![Tech](https://img.shields.io/badge/Stack-ROS2_%7C_SLAM_%7C_Nav2-lightgrey)
 
 * **:whale2: [Docker Environments](https://github.com/JoachimPerrin/docker-envs):**
   A handful of various docker environments I use across projects.
@@ -95,6 +95,7 @@ Designed a study on the Haptic Phantom Touch device, aiming to further analyse h
   ![Tech](https://img.shields.io/badge/Stack-ROS2_%7C_URDF_%26_Xacro_%7C_CAD-lightgrey)
 
 * **:mortar_board: [Academic Courseworks](https://github.com/JoachimPerrin/academic-courseworks):** A collection of various school projects. 
+<!--
 ---
 ### 📈 GitHub Stats
 <img
@@ -102,8 +103,6 @@ Designed a study on the Haptic Phantom Touch device, aiming to further analyse h
   alt="Top Langs"
   width="400"
 />
-
-<!-- ![Joachim's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoachimPerrin&show_icons=true&theme=radical) -->
 
 ---
 <div align="center">
@@ -113,4 +112,4 @@ Designed a study on the Haptic Phantom Touch device, aiming to further analyse h
   <a href="mailto:joachimperrin1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</div>
+</div> -->
